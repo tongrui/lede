@@ -126,7 +126,7 @@ jobs:
           # EOF
           # 常用LuCI插件选择:
           # cat >> .config <<EOF
-         # CONFIG_PACKAGE_luci-app-accesscontrol=y
+          # CONFIG_PACKAGE_luci-app-accesscontrol=y
           # CONFIG_PACKAGE_luci-app-arpbind=y
           # CONFIG_PACKAGE_luci-app-autoreboot=y
           # CONFIG_PACKAGE_luci-app-filetransfer=y
