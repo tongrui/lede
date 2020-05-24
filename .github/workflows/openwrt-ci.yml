@@ -11,7 +11,7 @@ name: OpenWrt-CI11
 
 on:
   schedule:
-    - cron: 0 22 * * *
+  #  - cron: 0 22 * * *
   push:
     branches:
       - master
